@@ -12,7 +12,7 @@
 "galpao":[
 {"id": 1, "nome": "galpao G354612", "id_empresa": 1, "descricao": ""},
 {"id": 2, "nome": "galpao G826465dd", "id_empresa": 1, "descricao": ""},
-{"id": 3, "nome": "galpao Gsf654654", "id_empresa": 1, "descricao": ""},
+{"id": 3, "nome": "galpao Gsf654654", "id_empresa": 1, "descricao": ""}
 ],
 "setor":[
 {"id": 1, "nome": "setor S665642", "id_galpao": 1, "descricao": ""},
@@ -20,7 +20,7 @@
 {"id": 3, "nome": "setor S55fg55", "id_galpao": 1, "descricao": ""},
 {"id": 4, "nome": "setor Slç54654", "id_galpao": 2, "descricao": ""},
 {"id": 5, "nome": "setor Splk545", "id_galpao": 2, "descricao": ""},
-{"id": 6, "nome": "setor S8545fs", "id_galpao": 3, "descricao": ""},
+{"id": 6, "nome": "setor S8545fs", "id_galpao": 3, "descricao": ""}
 ],
 "alojamento":[
 {"id": 1, "nome": "alojamento A665642", "id_setor": 1, "descricao": ""},
@@ -31,12 +31,12 @@
 {"id": 6, "nome": "alojamento A8545fs", "id_setor": 3, "descricao": ""},
 {"id": 9, "nome": "alojamento A8545fs", "id_setor": 3, "descricao": ""},
 {"id": 10, "nome": "alojamento A8545fs", "id_setor": 5, "descricao": ""},
-{"id": 11, "nome": "alojamento A8545fs", "id_setor": 6, "descricao": ""},
+{"id": 11, "nome": "alojamento A8545fs", "id_setor": 6, "descricao": ""}
 ],
 "sensor":[
 {"id": 1, "nome": "sensor SE@665642", "id_setor": 1, "descricao": ""},
 {"id": 2, "nome": "sensor SE@mk65456", "id_setor": 1, "descricao": ""},
-{"id": 3, "nome": "sensor SE@55fg55", "id_setor": 2, "descricao": ""},
+{"id": 3, "nome": "sensor SE@55fg55", "id_setor": 2, "descricao": ""}
 ]
 
 }

@@ -13,6 +13,14 @@
 {"id": 1, "nome": "galpao G354612", "id_empresa": 1, "descricao": ""},
 {"id": 2, "nome": "galpao G826465dd", "id_empresa": 1, "descricao": ""},
 {"id": 3, "nome": "galpao Gsf654654", "id_empresa": 1, "descricao": ""}
+],
+"setor":[
+{"id": 1, "nome": "setor S665642", "id_galpao": 1, "descricao": ""},
+{"id": 2, "nome": "setor Smk65456", "id_galpao": 1, "descricao": ""},
+{"id": 3, "nome": "setor S55fg55", "id_galpao": 1, "descricao": ""},
+{"id": 4, "nome": "setor Slç54654", "id_galpao": 2, "descricao": ""},
+{"id": 5, "nome": "setor Splk545", "id_galpao": 2, "descricao": ""},
+{"id": 6, "nome": "setor S8545fs", "id_galpao": 3, "descricao": ""}
 ]
 
 }

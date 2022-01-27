@@ -1,7 +1,7 @@
 {
 "empresa":[
-{"id": 1, "nome": "Fazenda ai meu Deus", "cnpj": "01.234.456/0001-78", "telefone": "8198765432"},
-{"id": 2, "nome": "Fazenda Galinhas", "cnpj": "01.987.654/0001-32", "telefone": "8198767785"}
+{"id": 1, "nome": "Fazenda ai meu Deus"},
+{"id": 2, "nome": "Fazenda Galinhas"}
 ],
 "usuario":[
 {"id": 1, "nome": "usuario1", "senha": "123456", "celular": "81999999999"},

@@ -21,6 +21,17 @@
 {"id": 4, "nome": "setor Slç54654", "id_galpao": 2, "descricao": ""},
 {"id": 5, "nome": "setor Splk545", "id_galpao": 2, "descricao": ""},
 {"id": 6, "nome": "setor S8545fs", "id_galpao": 3, "descricao": ""}
+],
+"alojamento":[
+{"id": 1, "nome": "alojamento A665642", "id_setor": 1, "descricao": ""},
+{"id": 2, "nome": "alojamento Amk65456", "id_setor": 1, "descricao": ""},
+{"id": 3, "nome": "alojamento A55fg55", "id_setor": 1, "descricao": ""},
+{"id": 4, "nome": "alojamento Alç54654", "id_setor": 2, "descricao": ""},
+{"id": 5, "nome": "alojamento Aplk545", "id_setor": 3, "descricao": ""},
+{"id": 6, "nome": "alojamento A8545fs", "id_setor": 3, "descricao": ""},
+{"id": 9, "nome": "alojamento A8545fs", "id_setor": 3, "descricao": ""},
+{"id": 10, "nome": "alojamento A8545fs", "id_setor": 5, "descricao": ""},
+{"id": 11, "nome": "alojamento A8545fs", "id_setor": 6, "descricao": ""}
 ]
 
 }

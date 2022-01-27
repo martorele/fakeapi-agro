@@ -1,7 +1,7 @@
 {
 "empresa":[
-{"id": 1, "nome": "Fazenda ai meu Deus"},
-{"id": 2, "nome": "Fazenda Galinhas"}
+{"id": 1, "nome": "Fazenda ai meu Deus", "cnpj": "01.234.456/0001-78", "telefone": "8198765432"},
+{"id": 2, "nome": "Fazenda Galinhas", "cnpj": "01.987.654/0001-32", "telefone": "8198767785"}
 ],
 "usuario":[
 {"id": 1, "nome": "usuario1", "senha": "123456", "celular": "81999999999"},
@@ -13,30 +13,6 @@
 {"id": 1, "nome": "galpao G354612", "id_empresa": 1, "descricao": ""},
 {"id": 2, "nome": "galpao G826465dd", "id_empresa": 1, "descricao": ""},
 {"id": 3, "nome": "galpao Gsf654654", "id_empresa": 1, "descricao": ""}
-],
-"setor":[
-{"id": 1, "nome": "setor S665642", "id_galpao": 1, "descricao": ""},
-{"id": 2, "nome": "setor Smk65456", "id_galpao": 1, "descricao": ""},
-{"id": 3, "nome": "setor S55fg55", "id_galpao": 1, "descricao": ""},
-{"id": 4, "nome": "setor Slç54654", "id_galpao": 2, "descricao": ""},
-{"id": 5, "nome": "setor Splk545", "id_galpao": 2, "descricao": ""},
-{"id": 6, "nome": "setor S8545fs", "id_galpao": 3, "descricao": ""}
-],
-"alojamento":[
-{"id": 1, "nome": "alojamento A665642", "id_setor": 1, "descricao": ""},
-{"id": 2, "nome": "alojamento Amk65456", "id_setor": 1, "descricao": ""},
-{"id": 3, "nome": "alojamento A55fg55", "id_setor": 1, "descricao": ""},
-{"id": 4, "nome": "alojamento Alç54654", "id_setor": 2, "descricao": ""},
-{"id": 5, "nome": "alojamento Aplk545", "id_setor": 3, "descricao": ""},
-{"id": 6, "nome": "alojamento A8545fs", "id_setor": 3, "descricao": ""},
-{"id": 9, "nome": "alojamento A8545fs", "id_setor": 3, "descricao": ""},
-{"id": 10, "nome": "alojamento A8545fs", "id_setor": 5, "descricao": ""},
-{"id": 11, "nome": "alojamento A8545fs", "id_setor": 6, "descricao": ""}
-],
-"sensor":[
-{"id": 1, "nome": "sensor SE@665642", "id_setor": 1, "descricao": ""},
-{"id": 2, "nome": "sensor SE@mk65456", "id_setor": 1, "descricao": ""},
-{"id": 3, "nome": "sensor SE@55fg55", "id_setor": 2, "descricao": ""}
 ]
 
 }
